@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-	Andrey Simonenko
+	Andrey Simonenko 1992
     <name> -- <role> -- <twitter>
 
 # THANKS
