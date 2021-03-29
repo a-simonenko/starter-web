@@ -6,3 +6,6 @@ some purpose
 ## Deployment
 some Deployment
 ## How To Contribute
+
+### Copyright
+2021. Git. Training.
