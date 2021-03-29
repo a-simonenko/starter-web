@@ -1,5 +1,5 @@
 # Starter Web Project
-Add some text to check rebase
+Add some text to check rebase. Added changes in separate branch
 ## Introduction
 Some introducing
 ## Purpose
