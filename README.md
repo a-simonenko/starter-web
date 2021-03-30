@@ -9,4 +9,4 @@ some Deployment
 ## How To Contribute
 bla bla bla
 ### Copyright
-2021. Git. Training.
+2021. Git. Training. All right reserved.
